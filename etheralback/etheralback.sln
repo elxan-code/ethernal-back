@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "etheralback", "etheralback\etheralback.csproj", "{2886AE09-3ACF-4876-8A85-63B1AA627371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2886AE09-3ACF-4876-8A85-63B1AA627371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2886AE09-3ACF-4876-8A85-63B1AA627371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2886AE09-3ACF-4876-8A85-63B1AA627371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2886AE09-3ACF-4876-8A85-63B1AA627371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B179C55-9D2B-460A-B4EE-3ADE37E75DE4}
+	EndGlobalSection
+EndGlobal

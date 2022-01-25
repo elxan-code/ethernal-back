@@ -1,0 +1,304 @@
+.a1{
+    background: rgb(68,51,68) none repeat;
+    justify-content: space-between;
+ 
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    
+
+#navbarNav{
+    justify-content: space-evenly;
+    color: white;
+    margin: 11px;
+
+}
+.a2{
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: white;
+}.navbar-light .navbar-nav .nav-link {
+    color:white;
+}
+.navbar-light .navbar-toggler {
+    color: white;
+    border-color: rgba(0,0,0,.1);
+}
+.navbar-light .navbar-toggler {
+    color: white;
+    border-color: rgb(255 255 255);
+    background-color: white;
+}
+.navbar-light .navbar-brand {
+    color:white;font-family: 'Oleo Script Swash Caps',cursive;
+  
+    font-size: 26px;
+    }
+
+    .navbar-light .navbar-brand:hover
+    {
+        color: red;
+    }
+    .banner {
+        background-attachment: fixed;
+        background-color: #645862;
+        background-image: url(img/background.jpg);
+        background-position: top center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: white;
+        cursor: default;
+        text-align: center;
+        width: 100%;
+        float: left;
+    }
+    .bg-overlay {
+        padding: 284px 11px 236px;
+        background-color: rgba(15,5,20,0.84);
+    }
+    .banner-text h2 {
+        font-size: 50px;
+    }
+    .banner-text h2 span {
+        color: #EB233C;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        font-family: 'Oleo Script Swash Caps',cursive;
+    }
+    .banner-button {
+        border: rgba(204,204,204,0.18) 1px solid;
+        padding: 12px 35px;
+        color: #ccc;
+        text-decoration: none;
+        display: inline-block;
+        border-radius: 25px;
+        font-size: 15px;
+        margin-top: 50px;
+    }.banner-button:hover
+    {
+        color: red;
+        background-color: white;
+    }
+    .navbar {
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+         padding-top: 0;
+        padding-bottom: 0;
+    }
+    .icon-box {
+        position: relative;
+        width: 175px;
+        height: 70px;
+        margin: 0;
+        display: inline-box;
+        border: rgba(204,204,204,0.18) 1px solid;
+        border-radius: 50%;
+        padding: 0px!important;
+    }
+    .fas{
+        line-height: 70px;
+     color: red;
+        font-size: 28px;
+    }
+.far{
+    line-height: 70px;
+    color: red;
+       font-size: 28px;
+}
+.feature-box{
+    display: flex;
+}
+.a5{
+    padding: 100px;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.col-lg-offset-1 {
+    margin-left: 8.33333333%;
+}
+.img-portfolio{
+    padding: 8px;
+}
+.view-more {
+    padding: 12px 35px;
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 25px;
+    font-size: 15px;
+    background-color: #EB233C;
+    margin-top: 20px;
+}
+.view-more :hover
+{
+    color: white;
+}
+.call-to-action {
+    background-attachment: fixed;
+    background-color: #645862;
+    background-image: url(img/background.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    cursor: default;
+    text-align: center;
+    width: 100%;
+    float: left;
+}
+.subscribe-button {
+    padding: 12px 35px;
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 25px;
+    font-size: 15px;
+    background-color: #EB233C;
+    margin-top: 30px;
+}
+.subscribe-text h3 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    border-bottom: 4px solid #EB233C;
+    display: inline-block;
+    line-height: 35px;
+    text-align: left;
+}
+.call-overlay{
+    background-color: rgba(15,5,20,0.84);
+}
+.about {
+    padding: 50px 0;
+    width: 100%;
+    float: left;
+}
+.a123{
+    display: flex;
+}
+.about h3 {
+    margin-top: 0;
+    margin-bottom: 50px;
+    border-bottom: 2px solid #EB233C;
+    display: inline-block;
+    line-height: 35px;
+}
+.az{
+    color: red;
+    font-size: 45px;
+}
+.contact h3 {
+    margin-top: 0;
+    margin-bottom: 50px;
+    border-bottom: 2px solid #EB233C;
+    display: inline-block;
+    line-height: 35px;
+}.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857;
+    color: #242424;
+    background-color: transparent;
+    background-image: none;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    transition: border-color 0.15s ease-in-out 0s,box-shadow 0.15s ease-in-out 0s;
+    border-bottom: 2px solid #EB233C;
+    resize: none;
+    margin-top: 25px;
+}
+.fa-mobile{
+    margin-left: 3px;
+}
+.contact-button {
+    border: none;
+    padding: 12px 35px;
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 25px;
+    font-size: 15px;
+    background-color: #EB233C;
+    margin-top: 30px;
+}
+.contact {
+    background-color: rgba(204,204,204,0.15);
+    padding: 50px 0;
+    float: left;
+    width: 100%;
+}
+.address h4 {
+    color: #EB233C;
+    font-size: 22px;
+}.email i {
+    color: #EB233C;
+   
+}
+.list-inline>li {
+    display: inline-block;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.social-buttons{
+    display: flex;
+    /* margin: 13px; */
+    font-size: 24px;
+    margin-left: 31px;
+}
+
+ul.social-buttons li a {
+    background-color: #222;
+    border-radius: 100%;
+    color: #fff;
+    display: block;
+    font-size: 20px;
+    height: 40px;
+    line-height: 40px;
+    outline: 0 none;
+    transition: all 0.3s ease 0s;
+    width: 40px;
+}
+.fab{
+    margin-left: 10px;
+}
+.salam:hover{
+    background-color: red;
+}
+footer ul.quicklinks a {
+    color: #EB233C;
+    line-height: 40px;
+    text-decoration: none;
+}
+.salam1{
+    margin-left: 13px;
+}
+.item{
+    text-align: center;
+  
+}
+.owl-drag{
+    background-color: rgba(235,213,235,0.26);
+}
+.wekil{
+
+    height: 82px;
+    width: 72px;
+    border-radius: 50%;
+    display: inline-table;
+}
+.owl-carousel .owl-item img {
+    display: inline;
+    width: 99px;
+}
